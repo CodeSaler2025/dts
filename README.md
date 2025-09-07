@@ -19,5 +19,6 @@ g)	简单的概括就是系统会随机出局一个阵营，并将这个出局�
 ![示例图片](./photo_2025-01-02_00-42-57.jpg "示例")
 
 <img width="442" height="816" alt="image" src="https://github.com/user-attachments/assets/129bfd6a-c1fb-4be9-aedd-f67bc0269da2" />
+<img width="443" height="830" alt="Snipaste_2025-09-06_14-41-08" src="https://github.com/user-attachments/assets/cb231ff3-1c3c-422e-ab15-156d95ba4251" />
 
 了解更多 ，请私信：[@CodeSaler](https://t.me/codeSaleAndRelease)
